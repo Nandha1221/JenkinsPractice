@@ -3,6 +3,7 @@ public class  jenkinsPush{
       System.out.println("Hi Nandha");
       System.out.println("Hi Surya");
       System.out.println("Hi Agni");
+      System.out.println("Hi Ruthvik");
       System.out.println("Hi sajith");
   }
 }
